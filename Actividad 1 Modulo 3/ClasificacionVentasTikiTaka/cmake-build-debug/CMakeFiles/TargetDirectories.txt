@@ -1,3 +1,0 @@
-C:/Users/andia/Desktop/UAN/3Semestre/Lógica computacional/U3/Actividad 1 Modulo 3/ClasificacionVentasTikiTaka/cmake-build-debug/CMakeFiles/ClasificacionVentasTikiTaka.dir
-C:/Users/andia/Desktop/UAN/3Semestre/Lógica computacional/U3/Actividad 1 Modulo 3/ClasificacionVentasTikiTaka/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/andia/Desktop/UAN/3Semestre/Lógica computacional/U3/Actividad 1 Modulo 3/ClasificacionVentasTikiTaka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
