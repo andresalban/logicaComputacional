@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/CalculoPromedioEstaturas.dir/main.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
