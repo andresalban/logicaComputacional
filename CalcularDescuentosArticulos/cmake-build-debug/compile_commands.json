@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/andia/Desktop/UAN/3Semestre/Lógica computacional/U3/Actividad 2 Modulo 3/CalcularDescuentosArticulos/cmake-build-debug",
+  "command": "C:\\Users\\andia\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\c++.exe -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\CalcularDescuentosArticulos.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\CalcularDescuentosArticulos.dir\\main.cpp.obj -c \"C:\\Users\\andia\\Desktop\\UAN\\3Semestre\\Lógica computacional\\U3\\Actividad 2 Modulo 3\\CalcularDescuentosArticulos\\main.cpp\"",
+  "file": "C:/Users/andia/Desktop/UAN/3Semestre/Lógica computacional/U3/Actividad 2 Modulo 3/CalcularDescuentosArticulos/main.cpp",
+  "output": "C:/Users/andia/Desktop/UAN/3Semestre/Lógica computacional/U3/Actividad 2 Modulo 3/CalcularDescuentosArticulos/cmake-build-debug/CMakeFiles/CalcularDescuentosArticulos.dir/main.cpp.obj"
+}
+]
