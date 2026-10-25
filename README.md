@@ -55,10 +55,3 @@ Andrés Alban Díaz
 ## Estado del proyecto
 
 Proyecto académico en desarrollo. El contenido puede ampliarse a medida que se incorporen nuevas actividades, ejercicios, diagramas y soluciones.
-
-## Mejoras recomendadas
-
-- Mantener nombres de carpetas y archivos claros y consistentes.
-- Incluir el enunciado, el análisis, el pseudocódigo, el diagrama, la prueba de escritorio y el código cuando la actividad lo solicite.
-- Documentar las instrucciones específicas para compilar cada ejercicio cuando sean distintas de las generales.
-- Añadir una licencia si se desea definir cómo otras personas pueden reutilizar el material.
